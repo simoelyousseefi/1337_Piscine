@@ -1,0 +1,5 @@
+Credentials cache: API:101226
+        Principal: asfaihi@1337.MA
+
+  Issued                Expires               Principal
+Aug 20 19:37:02 2019  Aug 21 19:37:02 2019  krbtgt/1337.MA@1337.MA
